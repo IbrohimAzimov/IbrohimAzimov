@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IbrohimAzimov/IbrohimAzimov/main/banner.png" alt="banner" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Ibrohim Azimov</h1>
 
 <h3 align="center">💻 Fullstack Developer (React + Django) | Strong Frontend Focus</h3>
