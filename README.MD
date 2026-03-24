@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats" height="150"/>
+  <img src="https://github.com/IbrohimAzimov/github-readme-stats/commit/5df91f9bfa89c356a55cbb3c2bbc164fdbf94a86" height="150"/>
   <img src="https://streak-stats.demolab.com?user=IbrohimAzmiov&theme=tokyonight&border_radius=10&v=2" height="150"/>
 </p>
 
