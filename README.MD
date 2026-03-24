@@ -65,3 +65,5 @@
 <p align="center">
   Code. Learn. Build. Repeat 🚀
 </p>
+
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
