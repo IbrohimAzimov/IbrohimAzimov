@@ -50,7 +50,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrohimAzmiov&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrohimAzimov&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br/>
@@ -66,10 +66,10 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/@Ibrohim_FULLSTACK">
     <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ibrohimazimov2011">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail" />
   </a>
 </p>
