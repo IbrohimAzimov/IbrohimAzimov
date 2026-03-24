@@ -70,10 +70,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/@Ibrohim_FULLSTACK">
+  <a href="https://t.me/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="mailto:ibrohimazimov2011@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
