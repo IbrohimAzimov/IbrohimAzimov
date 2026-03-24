@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrohimAzmiov&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=IbrohimAzmiov&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrohimAzmiov&show_icons=true&theme=tokyonight&border_radius=10&v=1" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=IbrohimAzmiov&theme=tokyonight&border_radius=10&v=1" height="150"/>
 </p>
 
 <br/>
