@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrohimAzimov&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
+  
   <img src="https://streak-stats.demolab.com?user=IbrohimAzimov&theme=tokyonight&border_radius=10&v=2" height="150"/>
 </p>
 
