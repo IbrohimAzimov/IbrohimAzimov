@@ -17,7 +17,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,materialui,react,tailwind,bootstrap,python,django,git,github,npm,pnpm,yarn,bun,vscode,pycharm,flutter,htmx,ruby,kotlin,go,bash,swift,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,materialui,react,tailwind,bootstrap,python,django,git,github,npm,pnpm,yarn,bun,vscode,pycharm,flutter,htmx,kotlin,go,bash,swift,figma" />
 </p>
 
 ## 🛠️ Core Technologies
